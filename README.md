@@ -1,6 +1,6 @@
 # Conversor de Temperaturas
 
-Programa que transforma temperaturas de grados Celsius a Farenheit y viceversa, con dos decimales de precisión.
+Programa en JavaScript que transforma temperaturas de grados Celsius a Farenheit y viceversa, con dos decimales de precisión.
 
 ## Uso
 
